@@ -1,6 +1,6 @@
-# Pizza Odering Web Application
+# Pizza Ordering Web Application
 
-![image](https://drive.google.com/uc?export=view&id=17BUnRRwevXo8s76nsa-_XB38_D5W1yp3)
+![image](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/55/1172484/fc9d84ec787a5a28f3dccd8773088ced-original.png)
 
 ## Demo [Demo](https://pizzalove.herokuapp.com)
 ### Login Credentials for Demo are - 
@@ -46,27 +46,33 @@
 
 ## Demo Screenshots
 
-![image](https://drive.google.com/uc?export=view&id=1l2DQbcb2F_vuEdOOHNL6ss4i_DNxB5kX)
+![image](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/55/1172484/83a6e34418615ebb1eea16d32ebee61f-original.png)
 
-![image](https://drive.google.com/uc?export=view&id=1ZVd0pNGc7irNh8oB6XuhXKk5hC5Z0phR)
-
-
-![image](https://drive.google.com/uc?export=view&id=1rY-YGOBHKUWvOe6-zqedwEbm0H1RLpsS)
+![image](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/55/1172484/429b69da912c00fa48b8e1a40059e6ab-original.png)
 
 
-![image](https://drive.google.com/uc?export=view&id=1PF9scLiRd0xXiHGdM7AULyNzyxZ_g_Y6)
+![image](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/55/1172484/8e9b306304c7d781cc641c2059675f18-original.png)
 
 
-![image](https://drive.google.com/uc?export=view&id=1TF3fqx41EfP5q6cwoLDwXZrSUwxSA9FM)
+![image](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/55/1172484/f65705f1e54b7967507164b47aa0b0c9-original.png)
 
 
-![image](https://drive.google.com/uc?export=view&id=1CqsdXye1dgD6AnMWht4Ka9etM0u2bWjf)
+![image](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/55/1172484/6f6bbc264b23a71633c9acfe91945144-original.png)
 
 
-![image](https://drive.google.com/uc?export=view&id=1KVposO0VfE9g-su19I1s4AREOUS49Rd0)
+![image](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/55/1172484/128dc6b31fc2037cebd9cd6b383a9281-original.png)
 
 
-![image](https://drive.google.com/uc?export=view&id=1sJ3RzeInGJVXjakNrXQ67mHwq84uYvHe)
+![image](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/55/1172484/5c30a486a7c4da00a95bb88ceb520370-original.png)
+
+
+![image](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/55/1172484/4af04d83a8a11cfbb74f473b8ac96e66-original.png)
+
+
+![image](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/55/1172484/5da5a3cfeb735ba5e55f3fe93c8504bb-original.png)
+
+
+![image](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/55/1172484/0f2c2299dae21a11df5cb12def279e9c-original.png)
 
 
 #### Note This is only a demo application not a service
