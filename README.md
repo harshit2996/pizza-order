@@ -2,7 +2,7 @@
 
 ![image](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/55/1172484/fc9d84ec787a5a28f3dccd8773088ced-original.png)
 
-## Demo [Demo](https://pizzalove.herokuapp.com)
+## Demo [Demo](https://pizzalove.harshit-singh.in)
 ### Login Credentials for Demo are - 
 - for admin
     - email - admin@pizza.com
